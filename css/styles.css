@@ -2,6 +2,10 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 
+title {
+	font-size: 1.0rem;
+}
+
 form {
 	max-width: 500px;
 	margin: 0 auto;
