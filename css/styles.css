@@ -69,6 +69,12 @@ h1, h2, h3 {
 	letter-spacing: 0.5px;
 }
 
+.navbar-brandsmall {
+	font-weight: 800;
+	font-size: 1em;
+	letter-spacing: 0.5px;
+}
+
 .navbar {
 	text-transform: uppercase;
 }
