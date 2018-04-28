@@ -1,9 +1,6 @@
 body {
 	font-family: 'Open Sans', sans-serif;
-}
-
-title {
-	font-size: 1.0rem;
+	font: normal 100%;
 }
 
 form {
@@ -68,7 +65,7 @@ h1, h2, h3 {
 
 .navbar-brand {
 	font-weight: 800;
-	font-size: 1.5rem;
+	font-size: 1.6em;
 	letter-spacing: 0.5px;
 }
 
